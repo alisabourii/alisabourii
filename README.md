@@ -1,3 +1,7 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=alisabourii&label=Software%20Developer&color=12&icon=2&pretty=true" />
+</a>
+
 # 💫 About Me:
 I'm Software Develper<br>
 
