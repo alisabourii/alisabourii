@@ -17,3 +17,7 @@ I'm Software Develper<br>
 [![](https://visitcount.itsvg.in/api?id=Ali SABOURI&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+[![](https://visitcount.itsvg.in/api?id=alisabourii&label=Software%20Developer&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
