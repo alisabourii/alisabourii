@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-💼 Software Developer at Webticari.<br>🛠️ Currently working with PHP JavaScript jQuery MySQL<br>🥼 Advanced knowledge in Python  C++ C# PHP JavaScript<br>🔍 Experience with Java / ASP.NET<br>📖 Learning Laravel Pytorch
+💼 Software Developer at Webticari.<br>🛠️ Currently working with PHP JavaScript jQuery MySQL<br>🥼 Advanced knowledge in Python  C++ C# PHP JavaScript<br>🔍 Experience with Java / ASP.NET<br>📖 Learning Laravel Pytorch LLM
 
 
 ## 🌐 Socials:
