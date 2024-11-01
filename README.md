@@ -1,7 +1,7 @@
 ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966](https://github.com/user-attachments/assets/b9caa65d-c2d0-4bd1-bc15-327684ec327a)
 
 
-Never Trust to Javascrit  https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145
+Never Trust to Javascrit  (https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript]
 
 # 💫 About Me:
 💼 Software Developer at Webticari.<br>🛠️ Currently working with PHP JavaScript jQuery MySQL<br>🥼 Advanced knowledge in Python  C++ C# PHP JavaScript<br>🔍 Experience with Java / ASP.NET<br>📖 Learning Laravel Pytorch LLM
