@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Software Developer at Webticari.<br>🛠️ Currently working with PHP JavaScript jQuery MySQL<br>🥼 Advanced knowledge in Python  C++ C# PHP JavaScript<br>🔍 Experience with Java / ASP.NET<br>📖 Learning Typescript React Three.js Pytorch LLM
+💼 Software Developer at Webticari.<br>🛠️ Currently working with PHP JavaScript jQuery MySQL<br>🥼 Advanced knowledge in Python  C++ C# PHP JavaScript<br>🔍 Experience with Java / ASP.NET<br>📖 Learning Typescript React.js Node.js Three.js Pytorch LLM
 
 
 ## 🌐 Socials:
