@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alisa Bourii!
+# 👋 Hi, I'm Ali Sabouri
 
 Welcome to my GitHub profile! I'm a passionate developer, an enthusiastic learner, and a problem-solver who loves to explore and contribute to the world of tech. Here's a bit about me:
 
