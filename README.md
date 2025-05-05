@@ -22,7 +22,7 @@ Here are some of the technologies I love working with:
 
 ## 🌐 Connect with Me
 - 📫 **Email**: alisabouri516@gmail.com
-- 💼 **LinkedIn**: [Your LinkedIn URL Here]
+- 💼 **LinkedIn**: [[Your LinkedIn URL Here]](https://www.linkedin.com/in/ali-sabouri-b75130226/)
 - 🐦 **Twitter**: [Your Twitter Handle Here]
 - 🌐 **Website/Portfolio**: [Your Website/Portfolio URL Here]
 
