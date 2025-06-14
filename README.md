@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer, an enthusiastic learne
 - 💻 **Role**: Computer Programmer
 - 🌍 **Location**: Turkiye
 - 🎓 **Education**: Information Tech
-- 🌱 **Currently Learning**: AI, Quantum, Kotlin,Devops Skills
+- 🌱 **Currently Learning**: Cloud Computing☁︎, Rust, Kotlin,Devops Skills
 - ⚡ **Fun Fact**: No where no here
 
 ---
