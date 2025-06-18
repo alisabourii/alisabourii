@@ -34,5 +34,5 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
 
 ## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alisabourii&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=alisabourii&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
 
