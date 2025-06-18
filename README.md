@@ -31,8 +31,3 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
 </p>
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=alisabourii&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
