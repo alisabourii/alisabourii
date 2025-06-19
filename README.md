@@ -16,9 +16,12 @@ My most significant professional experience so far has been working with PHP at 
 As a freelancer, I develop web projects using JavaScript (React and Next.js) and ASP.NET. I also build mobile applications using Java and Kotlin.
 
 ## Contact Me
-<p>
-  <a href="www.linkedin.com/in/ali-sabouri-b75130226" target="_blink"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+<p align="left" dir="auto">
+<a href="https://linkedin.com/in/rezaxkhaleghi" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abolfazl-jazak-208330292" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://instagram.com/PocketJack1" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abolfazljzk" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://youtube.com/@PocketJack1" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PocketJack1" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://medium.com/@pocketjack" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rezaxkhaleghi" height="30" width="40" style="max-width: 100%;"></a>
+  <a href="https://soundcloud.com/pocketjack" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="PocketJack" height="30" width="40" style="max-width: 100%;"></a>
 
 ## Skills
 
