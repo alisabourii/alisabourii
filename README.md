@@ -1,9 +1,5 @@
-<p align="center" dir="auto">
-  <a href="https://github.com/alisabourii">
-    <img data-canonical-src="https://readme-typing-svg.herokuapp.com?lines=Hey,+This+is+Ali SABOURI;Welcome+to+my+GitHub!&amp;center=true&amp;width=500&amp;height=50" style="max-width: 100%;">
-  </a>
-</p>
-###
+# Hello 👋, I'm Ali SABOURI (AliSBR)
+### Computer Programmer
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
