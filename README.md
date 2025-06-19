@@ -16,7 +16,10 @@ My most significant professional experience so far has been working with PHP at 
 As a freelancer, I develop web projects using JavaScript (React and Next.js) and ASP.NET. I also build mobile applications using Java and Kotlin.
 
 ## Contact Me
-<p><a href="www.linkedin.com/in/ali-sabouri-b75130226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="justAli0369" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://medium.com/@alisabouri516" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> </p>
+<p>
+  <a href="www.linkedin.com/in/ali-sabouri-b75130226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+  <a href="justAli0369" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X">    </a> 
+  <a href="https://medium.com/@alisabouri516" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> </p>
 
 ## Skills
 
