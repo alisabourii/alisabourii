@@ -18,7 +18,7 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
 ## Contact Me
 <p align="left" dir="auto">
 <a href="www.linkedin.com/in/ali-sabouri-b75130226/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abolfazl-jazak-208330292" height="30" width="40" style="max-width: 100%;"></a>
-  <a href="https://x.com/justAli0369" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> 
+  <a href="https://x.com/justAli0369" target="_blank"><img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="X"></a> 
 <a href="https://instagram.com/ali_sbr_01" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abolfazljzk" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://medium.com/@alisabouri516" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rezaxkhaleghi" height="30" width="40" style="max-width: 100%;"></a>
 
