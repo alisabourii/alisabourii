@@ -18,12 +18,9 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
 ## Contact Me
 <p align="left" dir="auto">
 <a href="www.linkedin.com/in/ali-sabouri-b75130226/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abolfazl-jazak-208330292" height="30" width="40" style="max-width: 100%;"></a>
-  
 <a href="https://instagram.com/ali_sbr_01" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abolfazljzk" height="30" width="40" style="max-width: 100%;"></a>
-
 <a href="https://medium.com/@alisabouri516" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rezaxkhaleghi" height="30" width="40" style="max-width: 100%;"></a>
 
-  <a href="https://soundcloud.com/pocketjack" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="PocketJack" height="30" width="40" style="max-width: 100%;"></a>
 
 ## Skills
 
