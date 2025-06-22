@@ -75,7 +75,6 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
   </a>
 </div>
 
-###
 
 
 <div align="center">
