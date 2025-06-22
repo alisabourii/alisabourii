@@ -56,6 +56,8 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/external-those-icons-lineal-those-icons/24/external-esp-cars-components-those-icons-lineal-those-icons.png" height="60" alt="ESP32 logo"  />
 </div>
 
 ###
