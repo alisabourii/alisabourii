@@ -76,9 +76,3 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
-#
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=alisabourii&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
