@@ -77,9 +77,15 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
   </a>
 </div>
 
-<!-- GitHub Stats Section -->
+## 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisabourii&show_icons=true&theme=radical" alt="alisabourii's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisabourii&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alisabourii&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alisabourii&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alisabourii&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
