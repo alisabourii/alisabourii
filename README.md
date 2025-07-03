@@ -85,8 +85,3 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisabourii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-<!-- GitHub Trophies Section -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alisabourii&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
