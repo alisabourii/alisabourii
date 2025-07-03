@@ -76,3 +76,17 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
+
+<!-- GitHub Stats Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alisabourii&show_icons=true&theme=radical" alt="alisabourii's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisabourii&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisabourii&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- GitHub Trophies Section -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alisabourii&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
