@@ -82,6 +82,4 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
   <img src="https://github-readme-stats.vercel.app/api?username=alisabourii&show_icons=true&theme=radical" alt="alisabourii's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisabourii&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisabourii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
