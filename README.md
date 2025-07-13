@@ -76,9 +76,3 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alisabourii&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
