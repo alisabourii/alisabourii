@@ -1,0 +1,21 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Arka plan (inaktif bar) -->
+    <item android:id="@android:id/background">
+        <shape>
+            <corners android:radius="10dp"/>
+            <solid android:color="#E0E0E0" />
+            <size android:height="12dp"/> <!-- ← Kalınlık burada -->
+        </shape>
+    </item>
+
+    <!-- İlerleme kısmı (aktif bar) -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <corners android:radius="10dp"/>
+                <solid android:color="#ED0000" />
+                <size android:height="12dp"/> <!-- ← Kalınlık burada -->
+            </shape>
+        </clip>
+    </item>
+</layer-list>
