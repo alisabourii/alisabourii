@@ -2,8 +2,7 @@
 ### Computer Programmer
 
 This is AliSBR,
-A computer programmer, tech enthusiast, and a beginner music learner.
-
+A computer programmer, tech enthusiast.
 I started programming before high school with Python.
 In high school, I founded a robotics team for my school and began learning C++. After a while, I needed C# for some projects and learned that as well.
 I enjoy contributing creatively when working on robotics projects.
