@@ -14,7 +14,7 @@ My most significant professional experience so far has been working with PHP at 
 
 As a freelancer, I develop web projects using JavaScript (React and Next.js) and ASP.NET. I also build mobile applications using Java and Kotlin.
 
-###
+### Skills:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
   <img width="12" />
