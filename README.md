@@ -64,6 +64,8 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
 ### Learing:
 <div align="center">
     <img src="https://camo.githubusercontent.com/9ffc9ee460c55c963007eb884055d61f3129a2c664c704cfe777340f51ba849d/68747470733a2f2f646f632e727573742d6c616e672e6f72672f626f6f6b2f696d672f6665727269732f70616e6963732e737667" height="60" alt="Rust"  />
+    <img src="https://img.icons8.com/color-glass/48/electronics.png" height="60" alt="Electronics"  />
+
 </div>
 
 <div align="center">
