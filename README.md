@@ -1,4 +1,4 @@
-# Hello 👋, I'm Ali SABOURI (AliSBR)
+# Hello 👋, I'm Ali SABOURI
 ### Computer Programmer
 
 This is AliSBR,
