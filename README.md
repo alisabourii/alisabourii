@@ -68,6 +68,17 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
 
 </div>
 
+### Expert:
+<div align="center">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/dusk/64/bot--v1.png" height="60" alt="Robotic"  />
+
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ali-sabouri-b75130226/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
