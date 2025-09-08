@@ -1,5 +1,5 @@
 # Hello 👋, I'm Ali SABOURI
-### Computer Programmer
+### student of EEE | Computer Programmer
 
 This is AliSBR,
 A computer programmer,EEE&CS Stduent and tech enthusiast.
