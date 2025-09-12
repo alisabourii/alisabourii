@@ -60,15 +60,3 @@ As a freelancer, I develop web projects using JavaScript (React and Next.js) and
   <img width="12" />
   <img src="https://img.icons8.com/dusk/64/bot--v1.png" height="60" alt="Robotic"  />
 </div>
-
-
-### Expert:
-<div align="center">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/dusk/64/bot--v1.png" height="60" alt="Robotic"  />
-
-</div>
