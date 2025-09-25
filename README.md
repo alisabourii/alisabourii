@@ -1,1 +1,1 @@
-Electronic Engineering Studnet
+Electronic Engineering Studnet | Computer Programmer
