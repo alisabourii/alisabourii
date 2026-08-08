@@ -14,8 +14,6 @@ I bridge theoretical engineering with practical execution by building reliable, 
 * 📡 **UDP-Based Local Communication Prototype (TÜBİTAK 2209-A)**
   Engineered a decentralized, zero-infrastructure local communication network designed for emergency and disaster scenarios.
 
-* 🚁 **Unmanned Vehicle & Industrial Solutions**
-  Designing custom PCB layouts (KiCad), embedded firmware, and MAVLink/CAN-BUS integration for autonomous systems and industrial automation.
 
 ---
 
@@ -32,9 +30,16 @@ I bridge theoretical engineering with practical execution by building reliable, 
 
 ### 💼 What I Do
 
-* **Embedded Firmware & Heterogeneous SoC:** Low-level software and HW/SW co-design on ARM architectures and Xilinx Zynq SoCs, focused on strict timing constraints and memory efficiency.
-* **Real-Time Control Systems:** RTOS-based architectures and deterministic control loops for high-speed sensor data processing and field automation.
-* **Hardware Companion Software:** Building specialized cross-platform interfaces (Android/Desktop) to transform raw telemetry streams into intuitive control panels.
+### 🔄 End-to-End Hardware & Firmware Lifecycle
+
+I bring ideas from concept to a fully functional production prototype:
+1. **Schematic & PCB Design:** Circuit design, component selection, and PCB layout (KiCad).
+2. **Prototyping & Fabrication:** Physical PCB manufacturing, soldering, and hardware debugging (Board Bring-Up).
+3. **Firmware & Control:** Bare-metal / RTOS firmware development, driver integration, and real-time control logic.
+
+  * **Embedded Firmware & Heterogeneous SoC:** Low-level software and HW/SW co-design on ARM architectures and Xilinx Zynq SoCs, focused on strict timing constraints and memory efficiency.
+  * **Real-Time Control Systems:** RTOS-based architectures and deterministic control loops for high-speed sensor data processing and field automation.
+  * **Hardware Companion Software:** Building specialized cross-platform interfaces (Android/Desktop) to transform raw telemetry streams into intuitive control panels.
 
 ---
 
