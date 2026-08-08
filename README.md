@@ -1,2 +1,1 @@
-Electronic Engineering Studnet | Computer Programmer | Digital Systems | Signal Processing
-
+Electronic Engineering Studnet | Computer Programmer | Embeddeded Systems
