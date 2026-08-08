@@ -40,6 +40,6 @@ I bridge theoretical engineering with practical execution by building reliable, 
 
 ### 📬 Connect & Collaborate
 
-* 🌐 **Website:** [alisabouri.com](https://alisabouri.com)
+* 🌐 **Website:** [https://alisabouri.com](https://alisabourii.github.io/)
 * 💼 **LinkedIn:** [https://linkedin.com](https://www.linkedin.com/in/ali-sabourii/)
 * 📧 **Email:** [alisabouri516@gmail.com](mailto:alisabouri516@gmail.com)
