@@ -21,7 +21,7 @@ I bridge theoretical engineering with practical execution by building reliable, 
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | C, C++, VHDL / Verilog, Kotlin, C#, Rust |
+| **Languages** | C/C++/C#, Kotlin, Rust, Python, VHDL / Verilog |
 | **SoC & Hardware** | Xilinx Zynq (FPGA + ARM), STM32 (Cortex-M), ESP32, KiCad PCB Design |
 | **Protocols & Interconnects** | AXI4 (Lite/Stream), CAN-BUS, LIN-BUS, UDP/TCP, MAVLink, LoRa, SPI, I2C |
 | **Architectures & OS** | HW/SW Co-Design, RTOS / FreeRTOS, Embedded Linux, Interrupt-Driven Systems |
