@@ -6,17 +6,6 @@ I bridge theoretical engineering with practical execution by building reliable, 
 
 ---
 
-### 🔬 Active Research & Featured Projects
-
-* 🚀 **Heterogeneous SoC Control System (Capstone Project)**
-  Developing a real-time Data Acquisition (DAQ) and closed-loop control system using **Xilinx Zynq (FPGA + ARM)**, utilizing AXI4 interconnects for low-latency HW/SW co-design.
-
-* 📡 **UDP-Based Local Communication Prototype (TÜBİTAK 2209-A)**
-  Engineered a decentralized, zero-infrastructure local communication network designed for emergency and disaster scenarios.
-
-
----
-
 ### 🛠 Tech Stack & Systems Expertise
 
 | Domain | Technologies & Frameworks |
