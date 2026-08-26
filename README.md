@@ -37,8 +37,3 @@ I bring ideas from concept to a fully functional production prototype:
 * 🌐 **Website:** [https://alisabouri.com](https://alisabourii.github.io/)
 * 💼 **LinkedIn:** [https://linkedin.com](https://www.linkedin.com/in/ali-sabourii/)
 * 📧 **Email:** [alisabouri516@gmail.com](mailto:alisabouri516@gmail.com)
-
-
-sudo nano /etc/ssh/sshd_config.d/50-cloud-init.conf
-açılan dosyada : "PasswordAuthentication no" yerine "PasswordAuthentication yes" yazacağız.
- sudo systemctl restart ssh
